@@ -20,8 +20,6 @@
   
 </p>
 
-[![sree ajay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreeajay07t&theme=dark)](https://git.io/streak-stats)
-
 [![Avikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeajay07&show_icons=true&theme=radical)](https://github.com/sreeajay07/github-readme-stats)
 
 
@@ -76,14 +74,14 @@ My Interests :heart_eyes:<br>
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avikumart&theme=radical&layout=compact)](https://github.com/avikumart/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeajay07&theme=radical&layout=compact)](https://github.com/sreeajay07/github-readme-stats)
 
 
 ## Profile views count
 
 <p align='left'>
   
-![](https://komarev.com/ghpvc/?username=avikumart)
+![](https://komarev.com/ghpvc/?username=sreeajay07)
   
 </p>
 
