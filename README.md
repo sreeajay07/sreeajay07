@@ -19,7 +19,8 @@
   </a>&nbsp
   
 </p>
-[![Avikumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreeajay07t&theme=dark)](https://git.io/streak-stats)
+
+[![sree ajay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreeajay07t&theme=dark)](https://git.io/streak-stats)
 
 [![Avikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeajay07&show_icons=true&theme=radical)](https://github.com/sreeajay07/github-readme-stats)
 
