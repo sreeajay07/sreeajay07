@@ -7,7 +7,7 @@
 
 <p align="center">
   🔥 Passionate about AI, backend development, and building scalable real-world applications.<br/>
-  🎯 Currently working with Python, SQL, Flask, FastAPI, TensorFlow, Langchain, Streamlit, React, TailwindCSS.<br/>
+  🎯 Currently working with Python, SQL, Flask, FastAPI, TensorFlow, Langchain, Streamlit.<br/>
   🚀 Always learning and improving — cloud, distributed systems, and AI deployment!
 </p>
 
@@ -37,8 +37,6 @@
   <img src="https://img.shields.io/badge/Langchain-0A0A0A?style=for-the-badge&logo=LangChain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
