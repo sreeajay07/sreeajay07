@@ -6,7 +6,7 @@
   I am practicing <b>Data Scientist.</b><br>
   Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>Tensorflow</b>,and <b>Keras</b>
 </p>
-<p>📫 How to reach me:innocent:</p>
+<p>📫 How to reach me:</p>
 
 <p align='center'>
  
